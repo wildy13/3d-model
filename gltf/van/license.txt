@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized pixel Fiat Ducato gen. I [JACEX]
+* source:	https://sketchfab.com/3d-models/stylized-pixel-fiat-ducato-gen-i-jacex-7687ffd0ba6f4783a0486007f7eb6531
+* author:	Pyromma-GS (https://sketchfab.com/Pyromma-GS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized pixel Fiat Ducato gen. I [JACEX]" (https://sketchfab.com/3d-models/stylized-pixel-fiat-ducato-gen-i-jacex-7687ffd0ba6f4783a0486007f7eb6531) by Pyromma-GS (https://sketchfab.com/Pyromma-GS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
